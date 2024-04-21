@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mahmoud Helal\\source\\repos\\Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0C101A-DC80-436D-A40B-4F74040174A7}|Task\\Task.csproj|c:\\users\\mahmoud helal\\source\\repos\\task\\task\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F0C101A-DC80-436D-A40B-4F74040174A7}|Task\\Task.csproj|solutionrelative:task\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0C101A-DC80-436D-A40B-4F74040174A7}|Task\\Task.csproj|c:\\users\\mahmoud helal\\source\\repos\\task\\task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F0C101A-DC80-436D-A40B-4F74040174A7}|Task\\Task.csproj|solutionrelative:task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mahmoud Helal\\source\\repos\\Task\\Task\\Migrations\\20240419132619_last.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Task\\Migrations\\20240419132619_last.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0C101A-DC80-436D-A40B-4F74040174A7}|Task\\Task.csproj|c:\\users\\mahmoud helal\\source\\repos\\task\\task\\migrations\\20240419131024_intial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F0C101A-DC80-436D-A40B-4F74040174A7}|Task\\Task.csproj|solutionrelative:task\\migrations\\20240419131024_intial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0C101A-DC80-436D-A40B-4F74040174A7}|Task\\Task.csproj|c:\\users\\mahmoud helal\\source\\repos\\task\\task\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F0C101A-DC80-436D-A40B-4F74040174A7}|Task\\Task.csproj|solutionrelative:task\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0C101A-DC80-436D-A40B-4F74040174A7}|Task\\Task.csproj|c:\\users\\mahmoud helal\\source\\repos\\task\\task\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F0C101A-DC80-436D-A40B-4F74040174A7}|Task\\Task.csproj|solutionrelative:task\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0C101A-DC80-436D-A40B-4F74040174A7}|Task\\Task.csproj|c:\\users\\mahmoud helal\\source\\repos\\task\\task\\task.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9F0C101A-DC80-436D-A40B-4F74040174A7}|Task\\Task.csproj|solutionrelative:task\\task.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240419132619_last.cs",
+              "DocumentMoniker": "C:\\Users\\Mahmoud Helal\\source\\repos\\Task\\Task\\Migrations\\20240419132619_last.cs",
+              "RelativeDocumentMoniker": "Task\\Migrations\\20240419132619_last.cs",
+              "ToolTip": "C:\\Users\\Mahmoud Helal\\source\\repos\\Task\\Task\\Migrations\\20240419132619_last.cs",
+              "RelativeToolTip": "Task\\Migrations\\20240419132619_last.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T13:26:19.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\Mahmoud Helal\\source\\repos\\Task\\Task\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "Task\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\Mahmoud Helal\\source\\repos\\Task\\Task\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "Task\\Controllers\\TaskController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T13:10:59.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240419131024_intial.cs",
+              "DocumentMoniker": "C:\\Users\\Mahmoud Helal\\source\\repos\\Task\\Task\\Migrations\\20240419131024_intial.cs",
+              "RelativeDocumentMoniker": "Task\\Migrations\\20240419131024_intial.cs",
+              "ToolTip": "C:\\Users\\Mahmoud Helal\\source\\repos\\Task\\Task\\Migrations\\20240419131024_intial.cs",
+              "RelativeToolTip": "Task\\Migrations\\20240419131024_intial.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T13:10:25.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mahmoud Helal\\source\\repos\\Task\\Task\\Program.cs",
+              "RelativeDocumentMoniker": "Task\\Program.cs",
+              "ToolTip": "C:\\Users\\Mahmoud Helal\\source\\repos\\Task\\Task\\Program.cs",
+              "RelativeToolTip": "Task\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAD3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T12:03:35.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Mahmoud Helal\\source\\repos\\Task\\Task\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Task\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Mahmoud Helal\\source\\repos\\Task\\Task\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "Task\\Contexts\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T13:06:20.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\Mahmoud Helal\\source\\repos\\Task\\Task\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "Task\\Models\\Users.cs",
+              "ToolTip": "C:\\Users\\Mahmoud Helal\\source\\repos\\Task\\Task\\Models\\Users.cs",
+              "RelativeToolTip": "Task\\Models\\Users.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T13:04:15.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Task",
+              "DocumentMoniker": "C:\\Users\\Mahmoud Helal\\source\\repos\\Task\\Task\\Task.csproj",
+              "RelativeDocumentMoniker": "Task\\Task.csproj",
+              "ToolTip": "C:\\Users\\Mahmoud Helal\\source\\repos\\Task\\Task\\Task.csproj",
+              "RelativeToolTip": "Task\\Task.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-19T13:03:41.096Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
